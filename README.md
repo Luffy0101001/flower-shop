@@ -29,6 +29,3 @@ I designed it to practice layout, styling, and responsive design principles.
 - CSS3 (Flexbox, Grid, Media Queries)
 - [Font Awesome](https://fontawesome.com/) icons
 - Google Fonts (Nunito Sans, Roboto Condensed)
-
-##  Live Demo
-👉 [Click here to visit the website](https://luffy0101001.github.io/flower-shop/)
